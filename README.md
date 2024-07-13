@@ -1,8 +1,16 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="height: 510px; width: 100%;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt1cWlhZjAzb3VjbWpxc3h6eXRqazN5b2xzY3J2Z3lqM2VzNTU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwZatUJdTcnVbBL3pg/giphy.gif" style="height:425px; width:100%; border-radius: 5px;">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 35px; width: 35px;">, I'm Devansh Kumar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh541&label=Profile%20views&color=0e75b6&style=flat" alt="devansh541" /> </p>
-<p> Testing... </p>
+<h3 align="left">About me:</h3>
+<p> <ul>
+  <li>I am a final year B.tech undergraduate student, pursuing a degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar</li>
+  <li>I am passionate about algorithms, problem-solving, and software engineering</li>
+  <li>I am proficient in programming languages like C++ and Python</li>
+  <li>Currently working my way around Web Development</li>
+</ul> </p>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devansh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh kumar" height="30" width="40" /></a>
