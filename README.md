@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt1cWlhZjAzb3VjbWpxc3h6eXRqazN5b2xzY3J2Z3lqM2VzNTU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwZatUJdTcnVbBL3pg/giphy.gif" style="height:425px; width:100%; border-radius: 5px;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt1cWlhZjAzb3VjbWpxc3h6eXRqazN5b2xzY3J2Z3lqM2VzNTU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwZatUJdTcnVbBL3pg/giphy.gif" style="height:400px; width:100%; border-radius: 5px;">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height: 35px; width: 35px;">, I'm Devansh Kumar</h1>
 
